@@ -64,7 +64,7 @@ To run the website locally, follow the steps below:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/gdg-pesce-website.git
+   git clone https://github.com/hardikkaaccount/pesce-gdg.git
    cd gdg-pesce-website
    ```
 
@@ -75,7 +75,7 @@ To run the website locally, follow the steps below:
 
 3. Run the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. Open your browser and go to `http://localhost:3000` to view the website locally.
