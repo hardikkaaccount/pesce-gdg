@@ -1,6 +1,6 @@
 # GDG PESCE Website (Space Theme) "<>"
 
-# Website Link : [**Live Demo Link**]()
+# Website Link : [**Live Demo Link**](https://gdgpesce.netlify.app/)
 ## Team Valvo
 ## Overview 🪐
 
@@ -92,7 +92,7 @@ To run the website locally, follow the steps below:
 
 The website has been successfully deployed and tested on a live server. You can visit it at:
 
-[**Live Demo Link**](https://yourwebsite.com)
+[**Live Demo Link**](https://gdgpesce.netlify.app/)
 
 ---
 
